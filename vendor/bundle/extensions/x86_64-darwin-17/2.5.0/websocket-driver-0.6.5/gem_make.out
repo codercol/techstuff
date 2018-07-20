@@ -1,0 +1,15 @@
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180718-2241-e0j3sn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20180718-2241-1wd0o3b

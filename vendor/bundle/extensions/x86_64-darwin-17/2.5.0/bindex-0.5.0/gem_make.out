@@ -1,0 +1,15 @@
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180718-2241-3sgmdp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/codercol/Desktop/welovetech/TechStuff/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180718-2241-gkhbhk/bindex
